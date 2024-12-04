@@ -14,6 +14,7 @@ Ensure you have Python 3.x installed on your system. You will also need the foll
 - `Pillow`
 
 Install the required libraries using pip:
+
 pip install qrcode[pil]
 
 pip install Pillow
